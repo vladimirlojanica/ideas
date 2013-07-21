@@ -814,7 +814,7 @@ Existing:
 
 ## 42. [Context As an Explorable Web: What can I use?](id:explorable-context)
 
-The context available in a given situation should be easily accessible and discoverable. A context tells a story and gives way to opportunity. This information is cucrrently discoverable through consulting documentation, asking questions or using debugging tools. Development environments should present what has already been calculated and what is available in an easy way.
+The context available in a given situation should be easily accessible and discoverable. A context tells a story and gives way to opportunity. This information is currently discoverable through consulting documentation, asking questions or using debugging tools. Development environments should present what has already been calculated and what is available in an easy way.
 
  * **Controllers** A web application request involves fetching data, processing and other tasks. What has the user provided? Where were they trying to go? There can be an element of duplication to this data and processing in a complex application. Cached data from previous queries can be taken advantage of.
  * **Templating Languages** the various data available to the request such as inferred information about the user or the user's current position in a flow. Already rendered widgets can also be re-used.
