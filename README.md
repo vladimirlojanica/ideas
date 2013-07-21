@@ -886,6 +886,9 @@ Existing:
  * [IPython notebook](http://pypi.python.org/pypi/ipython)
    ([nbconvert](http://github.com/ipython/nbconvert),
    [`IPython.core.display`](http://ipython.org/ipython-doc/stable/api/generated/IPython.core.display.html))
+ * [sphinx](http://pypi.python.org/pypi/sphinx)
+   ([docs](http://sphinx-doc.org/),
+   [ReStructuredText](http://sphinx-doc.org/rest.html))
  
 ## 45. Community Idea: Secure Configuration Distribution
 
