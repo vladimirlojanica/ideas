@@ -54,7 +54,7 @@ Potential Integrations
  
 Existing:
 
-  * [Diaspora](https://joindiaspora.com/), [BuddyCloud](http://buddycloud.com/), [Status.Net](http://status.net/), [SockNet](http://socknet.net/w/The_Socknet)
+  * [Diaspora](https://joindiaspora.com/), [BuddyCloud](http://buddycloud.com/), [Status.Net](http://status.net/), [SockNet](http://socknet.net/w/The_Socknet), [Tent](https://tent.io/), [pump.io](http://pump.io/)
  
 ## 3. Community Idea: [Design This](id:design-this)
 
