@@ -757,6 +757,10 @@ Code is inherently linked and related. This is similar to wikis and the nature o
  * Code can be navigated as a wiki.
  * Edit code in the same style as a wiki.
  
+Existing:
+
+ * [OpenGrok](http://opengrok.github.io/OpenGrok/) readonly wiki
+ 
 ## 39. Data Trails
 
 The data on your screen has a trail of influence. Multiple sections of code are touched before output is displayed.
