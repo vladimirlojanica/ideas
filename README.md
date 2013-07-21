@@ -68,7 +68,7 @@ Blogs, forums, wikis and social networks solve variations of the same problem. U
  * Collecting arbitrary structured data from the recipient rather than just a freestyle comment box at the bottom of a document. Information can be collected *within* the article such as small call to action button buttons that when clicked add form fields for the user to contribute to.
  * Allow users to provide corrections such as spelling (wiki functionality)
  * Split up the document into reusable components (wiki like transclusion)
- * Rendering display data in multiple ways
+ * Rendering data in multiple ways
  
 Examples:
 
@@ -80,18 +80,26 @@ blogger endeavours to update the blog post whenever information changes
 regarding a product or when a new product is to be reviewed.
 
 
-	- Ideally the blogger wants to display product attributes consistently and update them from one place.
+	- Ideally the blogger wants to display product attributes consistently
+	and update them from one place.
 	- Creating a summary of reviews at the bottom (without having to duplicate the information)
 	- Ask users for product suggestions, perhaps with an embedded form.
 	- The blogger wants to track the price or offers over time.
-	- Allow users to make comments regarding particular products or ratings. Allow users to give their own ratings for an attribute.
+	- Allow users to make comments regarding particular products or ratings. Allow users
+	to give their own ratings for an attribute.
 
 This blogger uses a HTML strikethrough to indicate that information has
 been updated in a blog. This is not transparent to the user. For
 information such as the price or a rating of a product over time, it
 will be difficult to see what the value was in the past and when it was
 changed. They may want to show a graph of the product ratings over time.
+
+The blogger wants a form of content management system for a single page with
+arbitrarily defined fields (product name, product facet, price, link to manufacturer etc).
+The living document is the interface to manipulate this information and append to it.
 ``` 
+
+This document is an example of a living document. There is a reasonably consistent pattern of idea headings and a number of bulleted list following each. I should be able to rename all headings of the same type in one go (because they are connected) or create a new idea through the interface which will automatically create an idea heading and the bulleted lists.
 
 Existing:
 
