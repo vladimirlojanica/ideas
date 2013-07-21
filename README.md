@@ -127,6 +127,7 @@ Life engine is a dashboard that attempts to collect information about your life 
 Existing:
 
  * business dashboards 
+ * [Locker Project](http://lockerproject.org/)
  
  
 ## 6. Community Idea: Ethical Me
@@ -435,6 +436,7 @@ Existing:
 
  * [Haskell shell scripting (Shelly)](http://www.yesodweb.com/blog/2012/03/shelly-for-shell-scripts)
  * TermKit
+ * [Windows PowerShell](http://en.wikipedia.org/wiki/Windows_PowerShell)
 
 ## 23. Live Data
 
