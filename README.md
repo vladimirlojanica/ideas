@@ -220,8 +220,9 @@ Existing:
 
 There are multiple package managers that have to be controlled with separate programs. Setting up a machine involves installing various package managers. It seems a hierarchy of package managers would permit installing any number of packages.
 
- * package managers have consistent standard command-line API that lets them be driven by other programs to avoid special cases for package managers
+ * package managers should have consistent standard command-line API that lets them be driven by other programs to avoid special cases for package managers
  * can namespace packages of package managers
+ * the package manager-package manager should let you install arbitrary package managers `mpm install <package manager>`
  
 For example, if you were installing Typo, a blog platform:
 
