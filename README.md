@@ -1564,7 +1564,7 @@ Existing:
 
  * [Filegive](http://freecode.com/projects/filegive)
 
-## 87. Interface Colescing
+## 87. Interface Coalescing
 
 When similar events occur in succession where each in isolation would have displayed a dialog, there is a risk that they block and have to be dealt with separately or they stack on-top of one another. Examples of where this is often a problem:
 
@@ -1573,7 +1573,7 @@ When similar events occur in succession where each in isolation would have displ
  * desktop environment notifications
  * wizard dialogs
 
-Interface colescing means that a singular dialog can 'colesce' with future dialogs to provide a better suited interface for handling multiple items.
+Interface coalescing means that a singular dialog can 'coalescing' with future dialogs to provide a better suited interface for handling multiple items.
 
 Examples:
 
