@@ -50,8 +50,8 @@ Potential Integrations
  * [Email metadata](#email-metadata)
  * [Life Engine](#life-engine)
  
- Existing:
- 
+Existing:
+
   * [Diaspora](https://joindiaspora.com/), [BuddyCloud](http://buddycloud.com/), [Status.Net](http://status.net/), [SockNet](http://socknet.net/w/The_Socknet)
  
 ## 3. Community Idea: [Design This](id:design-this)
