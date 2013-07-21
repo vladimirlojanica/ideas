@@ -1586,6 +1586,7 @@ Existing:
 
   * The [`Try Redis` demo](http://try.redis.io/)
   * [LightTable](http://lighttable.org/)
+  * [Storyteller](http://www.storytellersoftware.com)
 
 ## 90. [Views of Data](id:data-views)
 
