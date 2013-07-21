@@ -1111,8 +1111,7 @@ ac("I click the search box");
 ac("this is my first time I've used the search box") &&
 ac("the text should be cleared")
 ```
-If the story and AC changes *together* in the issue tracker, the above test will still pass.
-
+If the story's AC changes with the above *together* in the issue tracker, the above test will still pass.
 
 Strings may not be the ideal representations of acceptance criteria for they could change. AC may have similaraties with other stories and duplication creates maintainability problems. These may need a more robust link against the code that tests them.
 
