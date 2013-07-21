@@ -172,7 +172,7 @@ Potential integrations:
 
 A rendering of data should stand-in and represent itself.
 
- * If you have an open program and see a filename in the title bar next to that file's icon, you should be able to interact with that name or icon in the same as you can elsewhere. For example, you should be able to move the file or rename it. You should be able to drag it into an open email.
+ * If you have an open program and see a filename in the title bar next to that file's icon, you should be able to interact with that name or icon in the same way as you can elsewhere. For example, you should be able to move the file or rename it. You should be able to drag it into an open email.
 
  * If an application displays an IP address, a hostname, a filesize or some unit measurement, the user should be able to interact with these things with a tool that accepts these as arguments. Clicking a filesize may show where that space is being taken on the filesystem. Clicking an IP address may offer actions such as 'ping'. Clicking a unit measurement may show unit conversion tools.
  
