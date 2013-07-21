@@ -35,7 +35,6 @@ Existing:
  
  * [OpenEmailMetadata](https://github.com/samsquire/OpenEmailMetadata) - my very much incomplete exploration
  * [MailXML](http://www.idealliance.org/specifications/mailxml)
- * [Candle](http://candleapp.blogspot.co.uk/2011/06/why-i-invented-candle-i.html)
 
 ## 2. [Use Email as a Social Networking Transport](id:email-as-social-networking-transport)
 
@@ -98,6 +97,7 @@ Existing:
 
  * [LightTable](http://www.lighttable.com/)
  * Google Wave
+ * [Candle](http://candleapp.blogspot.co.uk/2011/06/why-i-invented-candle-i.html)
 
 ## 5. [Life Engine](id:life-engine)
 
@@ -116,7 +116,7 @@ Life engine is a dashboard that attempts to collect information about your life 
 
 Existing:
 
- * business dashboards
+ * business dashboards 
  
  
 ## 6. Community Idea: Ethical Me
