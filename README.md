@@ -767,6 +767,8 @@ The data on your screen has a trail of influence. Multiple sections of code are 
 
  * There is data displayed in a widget. Viewing the influences of this widget would show the source of the data such as the file, the API that was used, the connected database, the query that was executed.
  * An error is displayed, viewing the influences of this data will show what component the error was raised in and the configuration of that component.
+ 
+Logging and exceptions can be useless in identifying errors because they do not always store all the data that was involved. A developer has to manually include the data in the logging or exception. Data trails would ensure that any request is accompanied by its parameters. This could be combined with context as an explorable web to inspect each step separately.
 
 ## 40. [Input Services](id:input-services)
 
