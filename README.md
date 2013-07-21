@@ -1617,7 +1617,7 @@ At its basic level, templating can be considered a block of memory split into dy
  * A single instance of the website is kept in memory.
  * The static data and dynamic sections in-memory template are indexed.
  * Widgets or common components are shared different pages or nested views.
- * When a request comes in for a given page the .
+ * When a request comes in for a given page the regions are walked and transmitted.
  
 All this does is replace the generation of the contiguous block of bytes [static, dynamic, static, …] with a higher level representation of the output. Servlet layers and templating engines map the output page structure from many nested function calls and branching - the Template Virtual Machine essentially directly maps the blocks to the output. There may be the following benefits:
 
