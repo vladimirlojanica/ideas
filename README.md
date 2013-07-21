@@ -1111,7 +1111,7 @@ ac("I click the search box");
 ac("this is my first time I've used the search box") &&
 ac("the text should be cleared")
 ```
-If the story's AC changes, the above test will fail because the test no longer matches the acceptance criteria. We now have visibility when the code no longer matches the acceptance criteria.
+If the story's AC changes, the above test will fail because the test no longer matches the acceptance criteria. 
 
 Strings may not be the ideal representations of acceptance criteria for they could change. AC may have similaraties with other stories and duplication creates maintainability problems. These may need a more robust link against the code that tests them.
 
