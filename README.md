@@ -830,7 +830,7 @@ The operating system or host environment could pick the best algorithm depending
  * resource pressure (memory, system load, network throughput)
  * hardware specification
  
- Existing:
+Existing:
  
   * database query optimizers
 
