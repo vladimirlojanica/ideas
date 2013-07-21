@@ -883,6 +883,9 @@ Existing:
  * static site generators
  * Wiki transclusion
  * Word processors, Master documents and transclusion
+ * [IPython notebook](http://pypi.python.org/pypi/ipython)
+   ([nbconvert](http://github.com/ipython/nbconvert),
+   [`IPython.core.display`](http://ipython.org/ipython-doc/stable/api/generated/IPython.core.display.html))
  
 ## 45. Community Idea: Secure Configuration Distribution
 
