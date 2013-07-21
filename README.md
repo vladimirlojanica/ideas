@@ -1,7 +1,7 @@
 One Hundred Ideas for Computing
 ===
 
-This is a vision for how computing could be. I began writing down ideas down a number of years ago, this is a selection of ideas old and new. My theme is integration.
+This is a vision for how computing could be. I began writing ideas down a number of years ago, this is a selection of ideas old and new. My theme is integration.
 
 ## 1. [Email Metadata](id:email-metadata)
 
