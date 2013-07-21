@@ -399,7 +399,7 @@ For example,
 
 ```git status -s```
 
-Gives me the status of each file and the filename. If I want to use this data in Javascript or in Ruby I have to parse this text manually. Ultimately the structural output of this command is this same every time. There is a list of structure data with a consistent format that could be idiomatically represented in many languages. In Javascript this could be:
+Gives me the status of each file and the filename. If I want to use this data in Javascript or in Ruby I have to parse this text manually. Ultimately the structural output of this command is this same every time. There is a list of structured data with a consistent format that could be idiomatically represented in many languages. In Javascript this could be:
 
 ```
 {"file": "hello.py", "status": "modified"}
