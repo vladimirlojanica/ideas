@@ -337,7 +337,7 @@ In the detailed list view for a folder, I should be able to see the following:
 
  * `File Indicators` A file or folder that is being used or processed by another running program should be obvious from the file explorer. If a file is open in another program - show an icon of that program. If a long running process is running involving the file, progress bars should appear near the file such as a progress bar for files being downloaded, copied, scanned or backed up.
  * If the file is not physically present on this machine, show icons that represent the storage services or remote machines that the file is available under.
- * Add arbitrary columns in file viewer. Columns can be loose - the columns displayed a the top do not necessarily have to be filled by every file. What would be better is if files that have custom files show another column header.
+ * Add arbitrary columns in file viewer. Columns can be loose - the columns displayed at the top do not necessarily have to be filled by every file. What would be better is if files that have custom columns show another set of column headers.
 
 From open windows, I should be able to:
 
