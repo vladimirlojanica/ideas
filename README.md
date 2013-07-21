@@ -671,6 +671,7 @@ PI could be distributed as a virtual machine that includes:
 Existing:
 
  * 'personal cloud' providers such as [Tonido](http://tonido.com/) and [OwnCloud](http://owncloud.org/)
+ * [Camlistore](http://camlistore.org/)
  
 ## 34. Bluetooth Friend Mesh
 
@@ -881,10 +882,13 @@ Potential integration:
 
 Moving around blocks of text through online rich text editors and default browser text editors is painful compared to dedicated tools.
 
+I should be able to arbitrarily group regions of text or lists and move them up and down arbitrarily.
+
 Existing:
 
  * Outliner software
  * Mind Mapping
+ * [Douglas Engelbart's Demo](http://sloan.stanford.edu/MouseSite/1968Demo.html)
 
 Potential integrations:
 
@@ -1085,7 +1089,7 @@ ac("I click the search box");
 ac("this is my first time I've used the search box") &&
 ac("the text should be cleared")
 ```
-If the story and AC changes in the issue tracker, the above test will still pass.
+If the story and AC changes *together* in the issue tracker, the above test will still pass.
 
 
 Strings may not be the ideal representations of acceptance criteria for they could change. AC may have similaraties with other stories and duplication creates maintainability problems. These may need a more robust link against the code that tests them.
