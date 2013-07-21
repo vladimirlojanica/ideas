@@ -1663,9 +1663,9 @@ Digitally serving legal agreements, policies and terms and conditions has become
 
  * notifications when policies change
  * accessing a service shows what terms are applicable in a given context such as those for a website
- * see at a glance what conditions apply to the user such as idenmification clauses
+ * see at a glance what conditions apply to the user such as indemnification clauses
 
-Legal documents that state a valid action
+Legal documents that state a valid action are supported through the interface if there is a digital procedure to fulfil such request, such as a refund.
 
 Existing:
 
