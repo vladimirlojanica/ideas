@@ -1756,7 +1756,8 @@ Example: A configuration file
  - The next layer may be a tree structure to navigate the blocks of the file.
  - The next step would be to provide proper widgets for every value.
  - The next step may be wizards to generate certain blocks of the configuration file.
- - The next step may be to provide a dashboard and interpretation of what the configuration file is doing from a high level. Such as a nginx dashboard with icons for proxying. (see [representational computing](#representational-computing) and [data views](#data-views))
+ - The next step may be to provide a dashboard and interpretation of what the configuration
+   file is doing from a high level. Such as a nginx dashboard with icons for proxying. (representational computing and data views)
 
 ```
  * Interfaces are written to visualize and edit representations.
