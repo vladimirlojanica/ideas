@@ -35,6 +35,7 @@ Existing:
  
  * [OpenEmailMetadata](https://github.com/samsquire/OpenEmailMetadata) - my very much incomplete exploration
  * [MailXML](http://www.idealliance.org/specifications/mailxml)
+ * [Google Gmail Schemas](https://developers.google.com/gmail/schemas/)
 
 ## 2. [Use Email as a Social Networking Transport](id:email-as-social-networking-transport)
 
