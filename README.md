@@ -581,7 +581,7 @@ Existing:
 
 ([see graphic](widgetservers2.png))
 
-It should be possible for design and development workflows to co-exist and to work lockstep. Modern architecture splits web applications into layers and separates data, presentation and logic. This separation is inadequate for designers. This can manifest as designs being implemented top-down into the presentation layer. Depending on the architecture, aesthetic or functional changes require development effort. A triple architecture separates and provides tools for the tasks:
+It should be possible for design and development workflows to co-exist and to work lockstep. Modern architecture splits web applications into layers and separates data, presentation and logic. This separation is inadequate for designers. This can manifest as designs being implemented top-down into the presentation layer. Depending on the architecture, aesthetic or functional changes require development effort. A triple architecture separates and provides separate tools specialized for the following tasks:
 
  * Creation of the design and style of pages and their components complete with dummy data and all the different states that the widget can be in. (Design, User Experience/Design)
  * Specifying what kinds of data the widget 'wants' to display. (Analysis, Design)
@@ -593,15 +593,16 @@ a service that turns widgets into data requests. (Widget Server)
 
 Different people can work on the above in parallel because they are working with interfaces.
 
- * Backend business logic
- * Creating widgets or website components
- * Organizing and placing widgets onto pages
-
+ * Some developers work on backend business logic
+ * Some developers work on creating widgets or repeating website components
+ * Some developers are integrating the various widgets into pages
+ 
+These steps happen separately and mean that page level developers should not care about the internal workings of a widget. They communicate through a standard workflow of an issue tracker and avoid introducing page-specific functionality to widgets.
 
 Potential integrations:
 
  * Explorable Context/What can I use 
- 
+ * Microservice compilation for performance
 
 ## 31. Mounting Sourcecode
 
