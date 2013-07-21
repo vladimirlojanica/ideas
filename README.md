@@ -1624,6 +1624,10 @@ The output of one command can be useful while running further commands. For exam
 Examples:
 
  * You search a directory (grep) and pin the results to the top of the terminal. You mark off each file you process as you go.
+ 
+Existing:
+
+ * This could be similar to Douglas Engelbart's Demo where he interacts with a grocery list where the pinned shell output could be marked as the user works his way through the list.
 
 ## 94. Policy Tracking
 
