@@ -168,6 +168,7 @@ For example, if the user types `grep -v`, they may get an auto-complete for `--i
 Existing:
 
  * [Fish Shell](http://fishshell.com/)
+ * [Finalterm](http://finalterm.org/)
 
 Potential integrations:
 
