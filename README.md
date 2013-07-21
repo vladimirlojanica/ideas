@@ -165,6 +165,10 @@ For example, if the user types `grep -v`, they may get an auto-complete for `--i
  * converting between long options and short options - useful for self-documenting shell scripts
  * sort arguments so they always appear in the same order
 
+Existing:
+
+ * [Fish Shell](http://fishshell.com/)
+
 Potential integrations:
 
  * Use doclifter and parse resulting DocBook XML
