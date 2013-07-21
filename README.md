@@ -285,6 +285,10 @@ The spider would scan for configuration files, identify port numbers, paths and 
 
 This is like the [Design This](#design-this) but in reverse. Designers create a design and a developer creates a backend for the site. Ideally suited to open source projects.
 
+Existing:
+
+ * [Things I want Made](http://thingsiwantmade.com/)
+
 ## 16. "We Want This" (The Reverse Kickstarter)
 
 A group of people want to create something but do not have the time or energy to create it. They collaboratively decide what they want and raise funding.
@@ -299,6 +303,7 @@ This is like a 'reverse kickstarter' or a petition.
 Existing:
 
  * Kickstarter, in reverse
+ * [Things I want Made](http://thingsiwantmade.com/)
 
 ## 17. Clientside Bubble Routing
 
