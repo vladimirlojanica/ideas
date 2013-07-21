@@ -29,7 +29,7 @@ Potential Integrations
  * [Life Engine](#life-engine)
  * [Living document](#living-documents)
  * [Email as social networking transport](#email-as-social-networking-transport)
- * Vendor Relationship Management
+ * [Vendor Relationship Management](http://vimeo.com/15038426), [Project Danube](http://projectdanube.org/)
 
 Existing:
  
@@ -52,7 +52,7 @@ Potential Integrations
  
  Existing:
  
-  * [Diaspora](https://joindiaspora.com/), [BuddyCloud](http://buddycloud.com/), [Status.Net](http://status.net/), [SockNet](http://socknet.net/w/The_Socknet), Appleseed
+  * [Diaspora](https://joindiaspora.com/), [BuddyCloud](http://buddycloud.com/), [Status.Net](http://status.net/), [SockNet](http://socknet.net/w/The_Socknet)
  
 ## 3. Community Idea: [Design This](id:design-this)
 
