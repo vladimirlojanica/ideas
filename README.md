@@ -1810,7 +1810,7 @@ Online tools like Zapier and drag-and-drop workflow systems enable users to mix 
 
  * A user wants to do accomplish a task - these tasks should be directly browseable. The desktop environment should provide an interactive How To system that allows configurations to be created.
  * A user wants 1 feature in a product that offers 5. They do not necessarily care about the application. They have all the applications they want intalled but they want them to interact in a certain way.
- * User can apply conditions to differernt tasks.
+ * User can apply conditions to different tasks.
  * These configuration and underlying services and applications required for these tasks could span across multiple devices and machines.
  * Adding behaviours or integrating behaviours between running services and applications should be like a marketplace for features rather than applications.
  * Developers who scratch configuration itches can wrap up simple configuration permutations as 'offering task X'
