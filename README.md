@@ -1484,7 +1484,7 @@ Existing:
 Existing Examples:
 
  * Yeoman, client side generators
- * Vagrant, Docker
+ * [Vagrant](http://www.vagrantup.com), [Docker](http://www.docker.io)
 
 
 ## 81. Widget Studio
