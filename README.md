@@ -1599,7 +1599,7 @@ Learning a code base should be easy to start and supportive. An interactive code
 Existing:
 
   * The [`Try Redis` demo](http://try.redis.io/)
-  * [LightTable](http://lighttable.org/)
+  * [LightTable](http://lighttable.com/)
   * [Storyteller](http://www.storytellersoftware.com)
 
 ## 90. [Views of Data](id:data-views)
