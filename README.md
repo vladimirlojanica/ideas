@@ -80,7 +80,7 @@ Examples:
 A blogger is reviewing a number of products on an ongoing basis. The
 blogger creates a post for a given product category and headings for
 each offering. Attributes and ratings are placed in a bulleted list. The
-blogger endeavors to update the blog post whenever information changes
+blogger endeavours to update the blog post whenever information changes
 regarding a product or when a new product is to be reviewed.
 
 
