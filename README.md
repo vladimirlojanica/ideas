@@ -867,6 +867,7 @@ The operating system or host environment could pick the best algorithm depending
 Existing:
  
   * database query optimizers
+  * [Blum's speedup theorem](http://en.wikipedia.org/wiki/Blum_speedup_theorem)
 
 ## 44. [Interface Defined At Authorship: Meaning Added Later](id:idaa)
 
