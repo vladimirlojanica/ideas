@@ -1709,7 +1709,7 @@ Potential integration:
 
 ## 93. Shell Output Pinning
 
-The output of one command can be useful while running further commands. For example, a search of a directory would give a list of files. It may be nice to pin this list to the top of the shell and allow the user to work their way through the list. 
+The output of one command can be useful while running further commands. For example, a search of a directory would give a list of files. It may be nice to pin this list to the top of the shell and allow the user to work their way through the list.
 
 Examples:
 
@@ -1717,7 +1717,7 @@ Examples:
  
 Existing:
 
- * This could be similar to Douglas Engelbart's Demo where he interacts with a grocery list where the pinned shell output could be marked as the user works his way through the list.
+ * This could be similar to Douglas Engelbart's Demo where he interacts with a grocery list by marking off items as he goes.
 
 ## 94. Policy Tracking
 
