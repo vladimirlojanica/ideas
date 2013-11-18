@@ -1721,7 +1721,7 @@ Existing:
 
 ## 94. Policy Tracking
 
-Digitally serving legal agreements, policies and terms and conditions has become industry practice without any tools for users to manage, track and interrogate legal documents. A policy aware system can track and display relevant policies while people use computer systems for users to learn what clauses apply at a given time.
+Digitally serving legal agreements, policies and terms and conditions has become industry practice without any tools for users to manage, track and interrogate legal documents. A policy aware system can track and display relevant policies while people use computer systems so that people understand the 	clauses that apply in a given circumstance.
 
  * notifications when policies change
  * accessing a service shows what terms are applicable in a given context such as those for a website
