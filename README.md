@@ -1755,9 +1755,9 @@ Potential integration:
 
 ## 96. [Encyclopedic Literate Desktop](id:encyclopedic-literate-desktop)
 
-Computer systems and interfaces are obtuse and do not describe what they are doing or how they function. A desktop environment should explain and describe software as if it was a living encyclopedia. Computers can be more easily understood if they allowed what's on screen to be functionally decomposed and explained.
+Computer systems and interfaces are obtuse and do not describe what they are doing or how they function. A desktop environment should explain and describe software as if it were a living encyclopedia. Computers can be more easily understood if they allowed what's on screen to be functionally decomposed and explained.
 
- * Select a window, click the 'flip' button to see what is 'behind' the window, as a metaphor to see what he application is doing.
+ * Select a window, click the 'flip' button to see what is 'behind' the window, as a metaphor to see what the application is doing.
  * This gives us a description of the application and facts about the author, version and contact details.
  * Use cases and scenarios of the application from a high level.
  * A list of features.
@@ -1767,7 +1767,7 @@ Computer systems and interfaces are obtuse and do not describe what they are doi
  * What files the application opens
  * The data being transmitted by a program. ([Wireshark Dissectors](http://www.wireshark.org/docs/wsdg_html_chunked/ChapterDissection.html))
  
-These would be displayed as a overview style format in a similar style to that of a landing page for a product or service online. Each section above might be expandable (such as select a feature and learn how it works.) and linked to further information to learn more.
+These would be displayed in an overview style format in a similar style to that of a landing page for a product or service online. Each section above might be expandable (such as select a feature to learn how it works.) and linked to further information to learn more.
 
 An advanced user should be able to view the source code of an application in a literate interface. The emphasis is of a readable view of the source code as opposed to an editing environment to help the users understand how this particular application functions.
 
