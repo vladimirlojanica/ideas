@@ -1807,7 +1807,7 @@ If applications were designed to separate:
 Then the desktop environment and the user can override parts of the above behaviour of the application without damaging internal state of running applications. 
 
  * a user could select an interesting region of a complex interface and 'send it to the notification area' or 'promote it to the titlebar' so that they can cut and splice the user environment how they like. This would be provided by the environment - not specifically coded. ([How can I display a live screenshot of a piece of another application?](http://blogs.msdn.com/b/oldnewthing/archive/2013/05/13/10417964.aspx))
- * the user can interrogate and inspect the information underlying information a widget is displaying and add behaviour to it
+ * the user can interrogate and inspect the underlying data a widget is displaying and add behaviour to it
  * right click a 'disk usage' indicator and select 'monitor' and create a notification when disk usage reaches a threshold. The desktop environment is smart enough to know it is not the widget itself that is being monitored but the underlying data the widget is displaying.
 
 ```
