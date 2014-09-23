@@ -113,6 +113,7 @@ Existing:
  * [LightTable](http://www.lighttable.com/)
  * Google Wave
  * [Candle](http://candleapp.blogspot.co.uk/2011/06/why-i-invented-candle-i.html)
+ * [.plan file](http://www.catb.org/jargon/html/P/plan-file.html)
 
 ## 5. [Life Engine](id:life-engine)
 
