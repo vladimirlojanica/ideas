@@ -64,6 +64,9 @@ Developers need designers to give websites viable designs. This community brings
 
  * Developer: "I have written the business logic, the backend API and a rudimentary frontend but I need a real design for a website."
 
+Existing:
+
+ * [Weekend Hacker](http://www.weekendhacker.net/)
 
 ## 4. [Living Documents](id:living-documents)
 
@@ -302,6 +305,7 @@ This is like the [Design This](#design-this) but in reverse. Designers create a 
 Existing:
 
  * [Things I want Made](http://thingsiwantmade.com/)
+ * [Weekend Hacker](http://www.weekendhacker.net/)
 
 ## 16. "We Want This" (The Reverse Kickstarter)
 
