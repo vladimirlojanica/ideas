@@ -1228,6 +1228,9 @@ The branches of Git projects can be visualized as connected circles where branch
 Existing:
 
  * Gitk but read-only
+ * [Ungit](https://github.com/FredrikNoren/ungit)
+ 
+
 
 ## 62. Salary Structure as a Program
 
