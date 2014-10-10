@@ -134,6 +134,7 @@ Existing:
 
  * business dashboards 
  * [Locker Project](http://lockerproject.org/)
+ * [Google Now](http://www.google.com/landing/now/)
  
  
 ## 6. Community Idea: Ethical Me
