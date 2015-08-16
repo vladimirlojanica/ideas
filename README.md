@@ -1125,7 +1125,7 @@ As a user of this site, I may begin by exploring:
 * Show existing projects or products that used this [ technology | category of technologies | architecture ]
 
 Existing:
-
+ * [StackShare](http://stackshare.io/)
  * WikiMatrix, ForumMatrix, Alternative.To
 
 ## 55. [High Level Project Overview](id:high-level-project-overview)
