@@ -592,7 +592,7 @@ Existing:
 
 A representation dictates what something is and what you can do with it. A PNG file, a JSON document, C source code or a HTML file are accepted as inputs by different applications and operations. How do we know that that applications are interoperable and compatible? Representations can be inferred by the tests that they pass. This is similar to a type inferring programming language: we can build tests that represent high level qualities about applications and data formats. These are some high level examples that reason about the outputs or characteristics of programs or representations:
 
- * An sort algorithm that is stable or unstable.
+ * A sort algorithm that is stable or unstable.
  * Benchmarks to estimate space and time complexity. ([similar to cost aware computing](cost-aware-computing))
  * A library that accepts files at different levels of compliance.
 
@@ -1001,7 +1001,7 @@ A file can typically be converted between formats. Sometimes it is necessary to 
 
 Linked representations would be useful when files that are combined to create others or its converse when files are split to create others.
 
- * an sprite file, game tile
+ * a sprite file, game tile
  * web designs that are split into assets
 
 A linked representation would automatically split the files when a source file is changed or trigger a combining action when the components are changed. If software is written from composable actions or through [data `views` on the underlying data](#data-views), this could even be bidirectional. This would mean that editing the source image or the individual pieces would cause the other to be updated.
