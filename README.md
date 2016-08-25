@@ -1125,6 +1125,7 @@ As a user of this site, I may begin by exploring:
 * Show existing projects or products that used this [ technology | category of technologies | architecture ]
 
 Existing:
+ * [Siftery](https://siftery.com/)
  * [StackShare](http://stackshare.io/)
  * WikiMatrix, ForumMatrix, Alternative.To
 
