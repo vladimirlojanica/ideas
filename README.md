@@ -306,7 +306,6 @@ This is like the [Design This](#design-this) but in reverse. Designers create a 
 
 Existing:
 
- * [Things I want Made](http://thingsiwantmade.com/)
  * [Weekend Hacker](http://www.weekendhacker.net/)
 
 ## 16. "We Want This" (The Reverse Kickstarter)
@@ -323,7 +322,6 @@ This is like a 'reverse kickstarter' or a petition.
 Existing:
 
  * Kickstarter, in reverse
- * [Things I want Made](http://thingsiwantmade.com/)
  * [Quirky](http://www.quirky.com)
  * [Cofundos](http://cofundos.org/)
 
