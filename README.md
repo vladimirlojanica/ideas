@@ -119,6 +119,7 @@ Existing:
 Life engine is a dashboard that attempts to collect information about your life and display relevant data on a single screen.
 
  * pension performance
+ * health attributes
  * bank account balances
  * upcoming birthdays for friends
  * dream diary
