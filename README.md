@@ -1603,7 +1603,7 @@ Existing:
 
  * [Portable Application Description files](https://en.wikipedia.org/wiki/Portable_Application_Description)
  * http://schema.org/SoftwareApplication
- * [SEON Ontologies](http://www.se-on.org/) [*](http://www.reddit.com/r/MachineLearning/comments/1dycyd/why_not_model_computer_programs_its_just_as_fun/#c9vc0qa)
+ * [SEON Ontologies](http://www.se-on.org/)
 
 ## 86. Friend Pipe
 
