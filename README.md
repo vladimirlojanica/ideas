@@ -1854,7 +1854,6 @@ Integration:
 
 Existing:
 
- * [Aurajs](http://aurajs.com/)
  * COM/OLE Linking
  * Firebug, Chrome development tools
  * Microsoft MMC Snapins
