@@ -1,7 +1,7 @@
 One Hundred Ideas for Computing
 ===
 
-This is a vision for how computing could be. I began writing ideas down a number of years ago, this is a selection of ideas old and new. My theme is integration.
+This is a vision for how computing could be. I began writing ideas down a number of years ago - you can find the origin of many of these ideas in [idea wiki](https://github.com/samsquire/idea-wiki) - this is a selection of ideas old and new. My theme is integration.
 
 Thank you to all the contributors who have been sending in examples and corrections!
 
