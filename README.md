@@ -135,7 +135,6 @@ Life engine is a dashboard that attempts to collect information about your life 
 Existing:
 
  * business dashboards 
- * [Locker Project](http://lockerproject.org/)
  * [Google Now](http://www.google.com/landing/now/)
  
  
