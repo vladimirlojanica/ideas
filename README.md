@@ -5,7 +5,7 @@ This is a vision for how computing could be. I began writing ideas down a number
 
 Thank you to all the contributors who have been sending in examples and corrections!
 
-{:toc}
+* TOC {:toc}
 
 ## 1. [Email Metadata](id:email-metadata)
 
