@@ -328,7 +328,7 @@ Existing:
 
 Bubble routing is an approach to detecting and handling events on the client side. Most frameworks do not use bubbling to its full potential, they create a handler for each area where an event needs to be handled and stop propagation once it has been handled. Bubble routing uses a single event handler by taking advantage of the natural structure of the DOM and bubbling. Each element the event passes through enhances the information of the request before it gets to the topmost level where the event is actually handled.
 
- * Example: http://fiddle.jshell.net/SWrX5/17/
+ * Example: https://jsfiddle.net/SWrX5/17/
 
 
 ## 18. Shortcut Format
