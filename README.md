@@ -1174,9 +1174,9 @@ var ac = {
 ```
 
 ```
-ac("I click the search box");
-ac("this is my first time I've used the search box") &&
-ac("the text should be cleared")
+ac["I click the search box"];
+ac["this is my first time I've used the search box"] &&
+ac["the text should be cleared"]
 ```
 If the story's AC changes, the above test will fail because the test no longer matches the acceptance criteria. 
 
