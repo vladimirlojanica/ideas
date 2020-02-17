@@ -353,7 +353,7 @@ Existing:
 
 These are some features for file exploring programs I have always wanted. Some already exist.
 
-When I right click a [representation of a file](#elements-represent-themselves) (such as an icon or a filename), I should be able to interact with the file or folder in a many different ways:
+When I right click a [representation of a file](https://github.com/samsquire/ideas/blob/master/README.md#9-elements-represent-themselves) (such as an icon or a filename), I should be able to interact with the file or folder in a many different ways:
 
  * `Put in New Folder` asks the user for a folder name and puts the selected files into this folder. The user does not have to create a new folder and manually move the files across. ([existing as Files 2 Folder](http://skwire.dcmembers.com/fp/?page=files-2-folder))
  * `Pull out of Folder` move the files in a folder out of the directory
