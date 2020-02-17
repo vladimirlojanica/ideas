@@ -816,7 +816,7 @@ Logging and exceptions can be useless in identifying errors because they do not 
 
 The embeddable widgets that platforms provide should be interchangeable and interoperable. Currently the choice of widget libraries is made by application developers rather than the user.
 
- * Text input edits should be configurable. It should be possible to choose what text editor to use for your applications. Perhaps you want to use advanced text editors or. 
+ * Textarea fields should be configurable. It should be possible to choose what text editor to use for your applications. Perhaps you want to use advanced text editors like vim or emacs.
  * Pick a calendar field editor.
  
 ## 41. Drill-down Interface
