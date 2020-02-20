@@ -81,7 +81,7 @@ Blogs, forums, wikis and social networks solve variations of the same problem. U
  
 Examples:
 
-```
+
 A blogger is reviewing a number of products on an ongoing basis. The
 blogger creates a post for a given product category and headings for
 each offering. Attributes and ratings are placed in a bulleted list. The
@@ -105,8 +105,7 @@ changed. They may want to show a graph of the product ratings over time.
 
 The blogger wants a form of content management system for a single page with
 arbitrarily defined fields (product name, product facet, price, link to manufacturer etc).
-The living document is the interface to manipulate this information and append to it.
-``` 
+The living document is the interface to manipulate this information and append to it. 
 
 This document is an example of a living document. There is a reasonably consistent pattern of idea headings and a number of bulleted list following each. I should be able to rename all headings of the same type in one go (because they are connected) or create a new idea through the interface which will automatically create an idea heading and the bulleted lists.
 
