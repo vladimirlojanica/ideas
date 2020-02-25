@@ -1867,7 +1867,7 @@ A directory can be domain specific and relevant to the types of files displayed.
 
 ![Application portal](https://raw.github.com/samsquire/ideas/master/systemviewer_mergedisplay.PNG "Application portal")
 
- * In many file managers where folders appear first and there are many folders, no files can be seen. Folders and files could be arranged in a way that makes files and folders obvious immediately. Directories could be positioned along the top and down the right-hand side to make a `-|` shape to avoid the situation where only folders can be seen without scrolling down. This could then be sticky as the user scrolls down so that the user can always access folders.
+ * In many file managers where folders appear first and there are many folders, no files can be seen. Folders and files could be arranged in a way that makes files and folders obvious immediately. Directories could be positioned along the top and down the right-hand side to make a `L` shape to avoid the situation where only folders can be seen without scrolling down. This could then be sticky as the user scrolls down so that the user can always access folders.
  * Icons are scaled according to relative importance in the directory.
  * The background colors are arbitrary coloured to group certain files, perhaps with titles. A packing algorithm can a ensure that certain icons get arranged together in a pleasant way without breaking the uniform appearance of the icons.
 
