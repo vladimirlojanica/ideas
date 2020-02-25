@@ -1271,7 +1271,6 @@ Open source bounties would be to implement a new feature or fix a bug.
 Existing:
 
  * [BountySource](https://www.bountysource.com/)
- * [cantincan](https://www.catincan.com/)
  * [Cofundos](http://cofundos.org/)
  * [FreedomSponsors](http://freedomsponsors.org/)
  
