@@ -76,6 +76,7 @@ Living documents are the idea of an IDE and CMS that features the insertion of a
 
 See my attempts to explain a living document:
 
+* https://github.com/samsquire/live-interface/blob/master/screencasts/screencast1.mp4?raw=true
 * See https://github.com/samsquire/liveinterface
 * Write up of some of the behaviour of a living document: https://github.com/samsquire/living-documents-writeup/blob/master/living-documents-writeup.md
 * Article on living documents: http://samsquire.github.io/livingdocuments/
