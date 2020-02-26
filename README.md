@@ -72,11 +72,11 @@ Existing:
 
 ## 4. [Living Documents](id:living-documents)
 
-Living documents are the idea of an IDE and CMS that features the insertion of arbitrary data formats and automatically provides integrations between inserted content. It's a general purpose data structure editor. A living document is the fusion of blogs, forums, wikis, social networks and notebook software.
+Living documents are the idea of intra document CMS that features the insertability of arbitrary data formats and provides integrations between inserted content blocks. It's a general purpose data structure editor. A living document is the fusion of blogs, forums, wikis, social networks and notebook software.
 
 See my attempts to explain a living document:
 
-* https://github.com/samsquire/live-interface/blob/master/screencasts/screencast1.mp4?raw=true
+* My implementation of living document software: https://github.com/samsquire/live-interface/blob/master/screencasts/screencast1.mp4?raw=true Very early.
 * See https://github.com/samsquire/liveinterface
 * Write up of some of the behaviour of a living document: https://github.com/samsquire/living-documents-writeup/blob/master/living-documents-writeup.md
 * Article on living documents: http://samsquire.github.io/livingdocuments/
