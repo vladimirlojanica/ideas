@@ -1876,3 +1876,7 @@ Existing:
 
  * Applescript and Services
  * [Zapier](http://zapier.com/)
+ 
+ # More ideas
+ 
+ There's another [101 ideas in Another 85+ Ideas for Computing on my Github](https://github.com/samsquire/ideas2).
