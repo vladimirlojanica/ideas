@@ -6,6 +6,7 @@ This is a vision for how computing could be. I began writing ideas down a number
 * February 2020 [See ideas2, Another 85+ Ideas For Computing](https://github.com/samsquire/ideas2)
 * [See ideas3](https://github.com/samsquire/ideas3)
 * Please use the issues to discuss the ideas!
+* You don't have to read these ideas in order, you can jump about.
 
 Thank you to all the contributors who have been sending in examples and corrections!
 
