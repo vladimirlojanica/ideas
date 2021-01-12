@@ -1079,7 +1079,7 @@ assertions: {
 }
 ```
 
-A page in a web application can be modelled as its own API of user behaviour.
+A page in a web application can have a Javascript API that reflects the expected user usage pattern.
 
 
 ## 54. [Community Idea: Tech Stack Slice](id:tech-stack-slice)
