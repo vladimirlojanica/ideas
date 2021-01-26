@@ -5,6 +5,7 @@ This is a vision for how computing could be. I began writing ideas down a number
 
 * February 2020 [Please see ideas2, Another 85+ Ideas For Computing](https://github.com/samsquire/ideas2) I think they're even better than this batch of ideas!
 * [See ideas3](https://github.com/samsquire/ideas3)
+* If you like my ideas, please don't hesitate to contact me and chat about them! If you want me to evaluate one of your ideas, I can help!
 * Please use the issues to discuss the ideas!
 * You don't have to read these ideas in order, you can jump about.
 * Looking for business ideas? Checkout my [startups repository](https://github.com/samsquire/startups) where I list business ideas.
