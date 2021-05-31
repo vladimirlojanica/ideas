@@ -10,6 +10,7 @@ This is a vision for how computing could be. I began writing ideas down a number
 * You don't have to read these ideas in order, you can jump about.
 * Looking for business ideas? Checkout my [startups repository](https://github.com/samsquire/startups) where I list business ideas.
 * [I post ideas on my blog](https://elaeis.cloud-angle.com/)
+* [Chinese transaltion](https://www.oschina.net/translate/one-hundred-ideas-for-computing)
 
 Thank you to all the contributors who have been sending in examples and corrections!
 
