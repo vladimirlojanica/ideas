@@ -9,6 +9,8 @@ This is a vision for how computing could be. I began writing ideas down a number
 * Please use the issues to discuss the ideas!
 * You don't have to read these ideas in order, you can jump about.
 * Looking for business ideas? Checkout my [startups repository](https://github.com/samsquire/startups) where I list business ideas.
+* [I post ideas on my blog](https://elaeis.cloud-angle.com/)
+* [Chinese translation](https://www.oschina.net/translate/one-hundred-ideas-for-computing)
 
 Thank you to all the contributors who have been sending in examples and corrections!
 
@@ -81,7 +83,7 @@ Living documents are the idea of intra document CMS that features the insertabil
 
 See my attempts to explain a living document:
 
-* My implementation of living document software: https://github.com/samsquire/live-interface/blob/master/screencasts/screencast1.mp4?raw=true Very early.
+* A screencast of my implementation of living document software: https://github.com/samsquire/live-interface/blob/master/screencasts/screencast1.mp4?raw=true Very early.
 * See https://github.com/samsquire/liveinterface
 * Write up of some of the behaviour of a living document: https://github.com/samsquire/living-documents-writeup/blob/master/living-documents-writeup.md
 * Article on living documents: http://samsquire.github.io/livingdocuments/
